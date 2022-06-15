@@ -1,6 +1,6 @@
 {
-	"author": "DengXin Yuan",
 	"name": "fcc-learn-npm-package-json",
+	"author": "DengXin Yuan",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
